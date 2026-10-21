@@ -1,0 +1,21 @@
+# Pastas de compilação do Java / IntelliJ
+out/
+bin/
+build/
+target/
+
+# Arquivos compilados do Java
+*.class
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de sistema e temporários (Windows / macOS)
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
